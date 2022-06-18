@@ -5,16 +5,14 @@
 <table>
 <thead>
 <tr>
-</tr>
-<tr>
 <td>
 
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=xom4ek&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&bg_color=30,1d2c15,505b42&title_color=CEB950&text_color=fff&icon_color=CEB950)
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=xom4ek&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=midnight-purple)
   
 </td>
 <td>
       
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@xom4ek&bg_color=30,1d2c15,505b42&title_color=CEB950&text_color=fff&icon_color=CEB950)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@xom4ek&theme=midnight-purple)
  
 </td>
 </tr>
