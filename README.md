@@ -7,13 +7,10 @@
 <tr>
 <td>
 
-![Contribution Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xom4ek&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=midnight-purple)
-  
+
 </td>
 <td>
-      
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@xom4ek&theme=midnight-purple)
- 
+
 </td>
 </tr>
 </thead>
